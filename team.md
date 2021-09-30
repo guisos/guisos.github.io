@@ -4,9 +4,9 @@ layout: default
 
 # GuiSOS
 
-* home
+* [home](./index.md)
 * [team](./team.md)
-* [about](./about.md
+* [about](./about.md)
 
 ---
 
